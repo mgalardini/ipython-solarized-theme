@@ -6,4 +6,4 @@ Once you run this notebook a new [IPython Profile](http://ipython.org/ipython-do
   $ ipython notebook --profile solarized
 ```
 
-<img src="https://raw2.github.com/AJRenold/ipython-solarized-theme/master/example_screenshot.png"height="350">
+![example](https://raw.githubusercontent.com/AJRenold/ipython-solarized-theme/master/example_screenshot.png "Example")
